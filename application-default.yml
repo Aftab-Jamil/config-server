@@ -1,3 +1,6 @@
+spring:
+  application:
+    name: USER
 eureka:
   client:
     fetch-registry: true
